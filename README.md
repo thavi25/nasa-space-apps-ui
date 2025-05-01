@@ -31,9 +31,16 @@ This project is a responsive web UI created for the **NASA Space Apps Challenge*
 
 ## 📸 Screenshots
 
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/2d78c563-13e4-4e0c-a282-53002d5bf7a2)
 
-```markdown
-![Home Page](screenshots/landing.png)
-![Challenges Page](screenshots/landing.png)
-![Hall of Fame Page](screenshots/landing.png)
-![Faq](screenshots/mobile.png)
+### Challenges Page
+![Challenges Page](https://github.com/user-attachments/assets/bcc99e52-0afd-4bfb-a3e0-6e6b0673c601)
+
+### Hall of Fame Page
+![Hall of Fame Page](https://github.com/user-attachments/assets/35adcb94-cae7-4f9f-99e2-591b53fac716)
+
+### FAQ Page
+![Faq](https://github.com/user-attachments/assets/9e6d0804-1056-4956-affb-1848734a4cf7)
+
+```
