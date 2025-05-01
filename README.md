@@ -31,7 +31,6 @@ This project is a responsive web UI created for the **NASA Space Apps Challenge*
 
 ## 📸 Screenshots
 
-> *(Insert screenshots of your UI here using Markdown syntax — see below)*
 
 ```markdown
 ![Home Page](screenshots/landing.png)
